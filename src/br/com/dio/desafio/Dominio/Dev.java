@@ -32,6 +32,9 @@ public class Dev {
         return soma;
     }
 
+    public void fazerProva() {
+    };
+
     public String getNome() {
         return nome;
     }

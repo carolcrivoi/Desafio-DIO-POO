@@ -1,18 +1,12 @@
-## Getting Started
+## Desafio DIO - Programação Orientada a Obejtos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá pessoal, tudo bem?
 
-## Folder Structure
+Estou tendo meu primeiro contato com o mundo da tecnologia através desse bootcamp oferecido pela DIO, juntamente com a empresa GFT.
 
-The workspace contains two folders by default, where:
+Tem sido um grande desafio, mas também tenho tido muitos aprendizados e ainda mais conhecimentos, sei que a joranada é longa e ainda tenho muito o que desenvolver.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Esse desafio foi capaz de trazer uma clareza ainda maior para a definição e entendimento sobre o POO, do que se trata e como funciona.
+O próximo passo é o aprimoramento para entender de fato como posso aplicar todo esse conteúdo e técnica, conseguindo maior autonimia. A caminhada será longa, mas me dedicarei para alcançar minhas metas e objetivos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Desde já, agradeço por toda e qualquer contribuição, até logo!
